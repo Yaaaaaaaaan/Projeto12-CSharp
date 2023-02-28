@@ -16,6 +16,7 @@ namespace Projeto12
             Console.WriteLine(p);
             p = new Point();
             Console.WriteLine(p);
+            Console.ReadLine();
         }
     }
 }
